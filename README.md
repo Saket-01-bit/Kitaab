@@ -214,7 +214,7 @@ deployment readiness.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 **Kitaab --- A clean foundation for full-stack application
 development.**
-:::
+
